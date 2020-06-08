@@ -1,3 +1,24 @@
+#Title
+
+Weather app
+
+## About the app
+
+Do you want to check the weather in your city? type the city and search. It will show you the temperature and the weather in real time. 
+
+## App sceenshots
+![app cold image](public/cold.png)
+![app hot image](public/hot.png)
+
+## Built with
+
+- React
+- Openweathermap API
+
+## Deploy with
+
+- Github
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
