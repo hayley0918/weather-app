@@ -3,6 +3,7 @@
 Weather app
 
 ## About the app
+[To the weather app](https://hayley0918.github.io/weather-app/.)
 
 Do you want to check the weather in your city? type the city and search. It will show you the temperature and the weather in real time. 
 
